@@ -4,14 +4,14 @@ This is the original HUJI NJE software which comes with their own license to use
 <br>
 <pre>
 Copyright (c) 1988,1989 by
- | The Hebrew University of Jerusalem, Computation Center.
- |
- |   This software is distributed under a license from the Hebrew University
- | of Jerusalem. It may be copied only under the terms listed in the license
- | agreement. This copyright message should never be changed or removed.
- |   This software is gievn without any warranty, and the Hebrew University
- | of Jerusalem assumes no responsibility for any damage that might be caused
- | by use of misuse of this software.
+The Hebrew University of Jerusalem, Computation Center.
+
+This software is distributed under a license from the Hebrew University
+of Jerusalem. It may be copied only under the terms listed in the license
+agreement. This copyright message should never be changed or removed.
+This software is gievn without any warranty, and the Hebrew University
+of Jerusalem assumes no responsibility for any damage that might be caused
+by use of misuse of this software.
 </pre>
 <br>
 HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusalem. I obtained this code form MR. Bourvine in April 2020 with his permission. 
