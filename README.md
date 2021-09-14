@@ -2,6 +2,7 @@
 
 This is the original HUJI NJE software which comes with their own license to use and distribute as long as the original license, reprinted here in full:
 
+<pre>
 Copyright (c) 1988,1989 by
  | The Hebrew University of Jerusalem, Computation Center.
  |
@@ -11,12 +12,15 @@ Copyright (c) 1988,1989 by
  |   This software is gievn without any warranty, and the Hebrew University
  | of Jerusalem assumes no responsibility for any damage that might be caused
  | by use of misuse of this software.
+</pre>
 
-
+<br><br>
 INSTALL
 ======
 
-HUJInje compiles cleanly on older VMS 4.x. So far, I have not spent any time compiling it on Linux, since funetnje (see repository above) works quite well. 
+HUJInje compiles cleanly on older VMS 4.x. So far, I have not spent any time compiling it on Linux, because my UnixNJE works well on Linux/Macos/FreeBSD: https://github.com/moshix/UnixNJE
+
+<br>
 
 
 April 2020
