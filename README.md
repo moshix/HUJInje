@@ -1,7 +1,7 @@
 # HUJInje
 
 This is the original HUJI NJE software which comes with their own license to use and distribute as long as the original license, reprinted here in full:
-
+<br>
 <pre>
 Copyright (c) 1988,1989 by
  | The Hebrew University of Jerusalem, Computation Center.
@@ -13,6 +13,8 @@ Copyright (c) 1988,1989 by
  | of Jerusalem assumes no responsibility for any damage that might be caused
  | by use of misuse of this software.
 </pre>
+<br>
+HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusalem. I obtained this code form MR. Bourvine in April 2020 with his permission. 
 
 <br><br>
 INSTALL
