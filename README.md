@@ -20,8 +20,9 @@ INSTALL
 
 HUJInje compiles cleanly on older VMS 4.x. So far, I have not spent any time compiling it on Linux, because my UnixNJE works well on Linux/Macos/FreeBSD: https://github.com/moshix/UnixNJE
 
-<br>
+<br><br>
 
+Moshix<br>
 
-April 2020
-moshix
+April 2020<br>
+
