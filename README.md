@@ -14,7 +14,7 @@ of Jerusalem assumes no responsibility for any damage that might be caused
 by use of misuse of this software.
 </pre>
 <br>
-HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusalem. I obtained this code form MR. Bourvine in April 2020 with his permission. 
+HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusalem.
 <br><br>
 <b>INSTALL</b><br>
 <br><br>
