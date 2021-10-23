@@ -1,6 +1,6 @@
 # HUJInje
 
-This is the original HUJI NJE software which comes with their own license to use and distribute as long as the original license, reprinted here in full:
+This is the original HUJI NJE software which comes with their own license to use and distribute as long as the original license is included; reprinted here in full:
 <br>
 <pre>
 Copyright (c) 1988,1989 by
