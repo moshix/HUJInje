@@ -17,7 +17,7 @@ by use of misuse of this software.
 HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusalem.
 <br><br>
 <b>INSTALL</b><br>
-<br><br>
+<br>
 
 HUJInje compiles cleanly on older VMS 4.x. So far, I have not spent any time compiling it on Linux, because my UnixNJE works well on Linux/Macos/FreeBSD: https://github.com/moshix/UnixNJE
 
