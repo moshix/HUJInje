@@ -1,3 +1,5 @@
+<a href="https://cas.codenotary.com"><img src="https://raw.githubusercontent.com/codenotary/cas/master/extra/badge/secured-by-cas.svg" width="119px;"/></a>
+<br>
 # HUJInje
 
 This is the original HUJI NJE software which comes with their own license to use and distribute as long as the original license is included; reprinted here in full:
