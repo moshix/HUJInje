@@ -27,5 +27,5 @@ HUJInje compiles cleanly. However, if you want NJE on Linux, you may want to try
 January 2025
 Moshix<br>
 
-Jeddah, January 2025<br>
+Jerusalem, January 2025<br>
 
