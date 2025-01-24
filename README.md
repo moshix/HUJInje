@@ -24,7 +24,7 @@ HUJI NJE was authored by Yehavi Bourvine, CTO at The Hebrew University of Jerusa
 HUJInje compiles cleanly. However, if you want NJE on Linux, you may want to try my UnixNJE which works well on Linux/Macos/FreeBSD: https://github.com/moshix/UnixNJE
 
 <br><br>
-January 2025
+
 Moshix<br>
 
 Jerusalem, January 2025<br>
