@@ -1,6 +1,6 @@
 /* MAIN.C   V-2.8
  | Copyright (c) 1988,1989,1990,1991 by
- | The Hebrew University of Jerusalem, Computation Center.
+ | The Hebrew University of Jerusalem Computation Center.
  |
  |   This software is distributed under a license from the Hebrew University
  | of Jerusalem. It may be copied only under the terms listed in the license
