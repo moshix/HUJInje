@@ -75,9 +75,10 @@
  |           STATS:        Write statistics.
  |           COMMAND-PARSER Parses the opareator's commands.
  */
+
 #include "consts.h"
 #include "headers.h"
-#include <errno.h>	/* FOr the MALLOC error messages */
+#include <errno.h>	/* For MALLOC error messages */
 
 EXTERNAL struct	LINE	IoLines[MAX_LINES];
 EXTERNAL struct	ENQUIRE	Enquire;
